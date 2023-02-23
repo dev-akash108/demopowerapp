@@ -1,0 +1,66 @@
+{
+  "ComponentIndexes": {},
+  "ControlUniqueGuids": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "Label1": 5,
+    "Rectangle1": 4,
+    "Screen1": 3
+  },
+  "FunctionParamsInvariantScripts": {},
+  "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "02/23/2023 17:04:22",
+  "IsLegacyComponentAllowGlobalScopeCase": false,
+  "LocalConnectionIDReferences": {
+    "4e73d939-1721-4efd-8fb8-7ba9fb1d4fa7": "\"/providers/microsoft.powerapps/apis/shared_mysql/connections/e07d1f07bf7b425c92637369234b4261\""
+  },
+  "LocalDatabaseReferencesAsEmpty": false,
+  "LocalResourceFileNames": {},
+  "LocalResourceRootPaths": {},
+  "OrderComponentMetadata": {},
+  "OrderComponentTemplate": {},
+  "OrderDataSource": {
+    "classicmodels.customers": 0,
+    "classicmodels.employees": 1,
+    "classicmodels.offices": 2,
+    "classicmodels.orderdetails": 3,
+    "classicmodels.orders": 4,
+    "classicmodels.payments": 5,
+    "classicmodels.productlines": 6,
+    "classicmodels.products": 7
+  },
+  "OrderGroupControls": {},
+  "OrderPcfTemplate": {},
+  "OrderTemplate": {},
+  "OrderXMLTemplate": {
+    "label": 1,
+    "rectangle": 0
+  },
+  "OverridablePropertiesEntry": {
+    "App": {},
+    "Label1": {},
+    "Rectangle1": {},
+    "Screen1": {}
+  },
+  "PCFDynamicSchemaForIRRetrievalEntry": {},
+  "PublishOrderIndices": {
+    "App": 0,
+    "Label1": 1,
+    "Rectangle1": 0,
+    "Screen1": 0
+  },
+  "ResourcesJsonIndices": {},
+  "RuleScreenIdWithoutScreen": {},
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.0793247,
+    "ControlCount": {
+      "label": 1,
+      "rectangle": 1,
+      "screen": 1
+    },
+    "DeserializationLoadTime": 0.456955,
+    "ErrorCount": 0
+  },
+  "WasLocalDatabaseReferencesEmpty": true
+}

@@ -1,0 +1,31 @@
+[
+  {
+    "ApiId": "/providers/microsoft.powerapps/apis/shared_mysql",
+    "CdpRevision": {
+      "BaseUrl": "/",
+      "LastChangedTimeString": "2022-12-14T18:13:27.9360000Z",
+      "RevisionNumber": 1
+    },
+    "ConnectedDataSourceInfoNameMapping": {
+      "addressLine1": "addressLine1",
+      "addressLine2": "addressLine2",
+      "city": "city",
+      "contactFirstName": "contactFirstName",
+      "contactLastName": "contactLastName",
+      "country": "country",
+      "creditLimit": "creditLimit",
+      "customerName": "customerName",
+      "customerNumber": "customerNumber",
+      "phone": "phone",
+      "postalCode": "postalCode",
+      "salesRepEmployeeNumber": "salesRepEmployeeNumber",
+      "state": "state"
+    },
+    "DatasetName": "default",
+    "EncodeDataset": true,
+    "IsSampleData": false,
+    "IsWritable": true,
+    "Name": "classicmodels.customers",
+    "Type": "ConnectedDataSourceInfo"
+  }
+]

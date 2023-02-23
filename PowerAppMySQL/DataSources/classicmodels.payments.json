@@ -1,0 +1,22 @@
+[
+  {
+    "ApiId": "/providers/microsoft.powerapps/apis/shared_mysql",
+    "CdpRevision": {
+      "BaseUrl": "/",
+      "LastChangedTimeString": "2022-12-14T18:13:27.9360000Z",
+      "RevisionNumber": 1
+    },
+    "ConnectedDataSourceInfoNameMapping": {
+      "amount": "amount",
+      "checkNumber": "checkNumber",
+      "customerNumber": "customerNumber",
+      "paymentDate": "paymentDate"
+    },
+    "DatasetName": "default",
+    "EncodeDataset": true,
+    "IsSampleData": false,
+    "IsWritable": true,
+    "Name": "classicmodels.payments",
+    "Type": "ConnectedDataSourceInfo"
+  }
+]

@@ -1,0 +1,20 @@
+Screen1 As screen:
+
+    Rectangle1 As rectangle:
+        Height: =82
+        Width: =1365
+        ZIndex: =1
+
+    Label1 As label:
+        Align: =Align.Center
+        Color: =RGBA(255, 255, 255, 1)
+        Font: =Font.'Patrick Hand'
+        FontWeight: =FontWeight.Bold
+        Height: =43
+        Size: =23
+        Text: ="Welcome to the Company Data Report"
+        Width: =745
+        X: =310
+        Y: =19
+        ZIndex: =2
+

@@ -1,0 +1,64 @@
+{
+  "4e73d939-1721-4efd-8fb8-7ba9fb1d4fa7": {
+    "connectionParameters": {
+      "authType": "basic",
+      "database": "classicmodels",
+      "server": "localhost",
+      "sku": "Enterprise"
+    },
+    "connectionRef": {
+      "apiTier": "Premium",
+      "displayName": "MySQL",
+      "gatewayObjectIdHint": "ea0ebd2a-21b8-45db-9a21-f50cc28267bf",
+      "iconUri": "https://connectoricons-prod.azureedge.net/u/juanq/gateway/greyhound/3000.150.11/1.0.1613.3116/mysql/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_mysql",
+      "isOnPremiseConnection": true,
+      "parameterHints": {},
+      "parameterHintsV2": {},
+      "sharedConnectionId": "/providers/microsoft.powerapps/apis/shared_mysql/connections/e07d1f07bf7b425c92637369234b4261"
+    },
+    "datasets": {
+      "default": {
+        "dataSources": {
+          "classicmodels.customers": {
+            "tableName": "[classicmodels].[customers]"
+          },
+          "classicmodels.employees": {
+            "tableName": "[classicmodels].[employees]"
+          },
+          "classicmodels.offices": {
+            "tableName": "[classicmodels].[offices]"
+          },
+          "classicmodels.orderdetails": {
+            "tableName": "[classicmodels].[orderdetails]"
+          },
+          "classicmodels.orders": {
+            "tableName": "[classicmodels].[orders]"
+          },
+          "classicmodels.payments": {
+            "tableName": "[classicmodels].[payments]"
+          },
+          "classicmodels.productlines": {
+            "tableName": "[classicmodels].[productlines]"
+          },
+          "classicmodels.products": {
+            "tableName": "[classicmodels].[products]"
+          }
+        }
+      }
+    },
+    "dataSources": [
+      "classicmodels.customers",
+      "classicmodels.employees",
+      "classicmodels.offices",
+      "classicmodels.orderdetails",
+      "classicmodels.orders",
+      "classicmodels.payments",
+      "classicmodels.productlines",
+      "classicmodels.products"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "4e73d939-1721-4efd-8fb8-7ba9fb1d4fa7"
+  }
+}

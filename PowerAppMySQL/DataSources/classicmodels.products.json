@@ -1,0 +1,27 @@
+[
+  {
+    "ApiId": "/providers/microsoft.powerapps/apis/shared_mysql",
+    "CdpRevision": {
+      "BaseUrl": "/",
+      "LastChangedTimeString": "2022-12-14T18:13:27.9360000Z",
+      "RevisionNumber": 1
+    },
+    "ConnectedDataSourceInfoNameMapping": {
+      "buyPrice": "buyPrice",
+      "MSRP": "MSRP",
+      "productCode": "productCode",
+      "productDescription": "productDescription",
+      "productLine": "productLine",
+      "productName": "productName",
+      "productScale": "productScale",
+      "productVendor": "productVendor",
+      "quantityInStock": "quantityInStock"
+    },
+    "DatasetName": "default",
+    "EncodeDataset": true,
+    "IsSampleData": false,
+    "IsWritable": true,
+    "Name": "classicmodels.products",
+    "Type": "ConnectedDataSourceInfo"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "ApiId": "/providers/microsoft.powerapps/apis/shared_mysql",
+    "CdpRevision": {
+      "BaseUrl": "/",
+      "LastChangedTimeString": "2022-12-14T18:13:27.9360000Z",
+      "RevisionNumber": 1
+    },
+    "ConnectedDataSourceInfoNameMapping": {
+      "comments": "comments",
+      "customerNumber": "customerNumber",
+      "orderDate": "orderDate",
+      "orderNumber": "orderNumber",
+      "requiredDate": "requiredDate",
+      "shippedDate": "shippedDate",
+      "status": "status"
+    },
+    "DatasetName": "default",
+    "EncodeDataset": true,
+    "IsSampleData": false,
+    "IsWritable": true,
+    "Name": "classicmodels.orders",
+    "Type": "ConnectedDataSourceInfo"
+  }
+]
